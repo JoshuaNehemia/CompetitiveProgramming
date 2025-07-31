@@ -29,6 +29,7 @@ This module sets the stage, introducing you to the environment, tools, and minds
       * Learn common C++ headers, especially `<bits/stdc++.h>`.
       * Understand basic syntax, data types, and control structures.
   * **Materials:**
+  ![Click Here!](MODULE_00/03.md)
 
 -----
 
@@ -42,6 +43,7 @@ Before diving into complex algorithms, you need a solid foundation in mathematic
       * **Number Theory:** Prime factorization, Sieve of Eratosthenes, GCD & LCM (Euclidean algorithm), Modular Arithmetic, and Fermat's Little Theorem.
       * **Combinatorics:** Permutations, combinations, binomial coefficients ($C(n, k)$), and pigeonhole principle.
   * **Materials:**
+  ![Click Here!](MODULE_01/04.md)
 
 #### TOPIC 05: Complexity Analysis
 
@@ -50,6 +52,7 @@ Before diving into complex algorithms, you need a solid foundation in mathematic
       * Analyze the time and space complexity of algorithms.
       * Estimate the runtime of a solution based on input constraints (e.g., $N \\le 10^5$ suggests an $O(N \\log N)$ or $O(N)$ solution).
   * **Materials:**
+  ![Click Here!](MODULE_01/05.md)
 
 -----
 
@@ -75,7 +78,7 @@ Learn the fundamental strategies that form the backbone of countless solutions.
 
   * **Learning Objectives:**
       * Identify problems with optimal substructure and overlapping subproblems.
-      * Master the two approaches: **Memoization (Top-Down)** and **Tabulation (Bottom-Up)**.
+      * Master the two approaches: **Memoization (Top-Down)** and **Tabulation (Bottom-Up)
       * Solve classic DP problems: 0/1 Knapsack, Longest Common Subsequence (LCS), Edit Distance, and Coin Change.
 
 -----
