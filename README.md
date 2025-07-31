@@ -66,6 +66,8 @@ Learn the fundamental strategies that form the backbone of countless solutions.
       * Understand the greedy choice property.
       * Solve classic problems like Activity Selection, Fractional Knapsack, and Huffman Coding.
   * **Practice:** Problems involving sorting and making the locally optimal choice.
+  * **Material:** 
+  ![Click Here!](MODULE_02/06.md)
 
 #### TOPIC 07: Divide and Conquer
 
@@ -73,6 +75,8 @@ Learn the fundamental strategies that form the backbone of countless solutions.
       * Break problems into smaller, independent subproblems.
       * Implement **Binary Search** on monotonic functions.
       * Understand classic D\&C algorithms like Merge Sort and Quick Sort (Comparing to other sorting algorithms).
+  * **Material:** 
+  ![Click Here!](MODULE_02/07.md)
 
 #### TOPIC 08: Dynamic Programming (DP)
 
@@ -80,6 +84,8 @@ Learn the fundamental strategies that form the backbone of countless solutions.
       * Identify problems with optimal substructure and overlapping subproblems.
       * Master the two approaches: **Memoization (Top-Down)** and **Tabulation (Bottom-Up)
       * Solve classic DP problems: 0/1 Knapsack, Longest Common Subsequence (LCS), Edit Distance, and Coin Change.
+  * **Material:** 
+  ![Click Here!](MODULE_02/08.md)
 
 -----
 
