@@ -12,12 +12,14 @@ This module sets the stage, introducing you to the environment, tools, and minds
       * Learn the problem-solving lifecycle: read, analyze, code, test, and debug.
       * Familiarize yourself with online judge platforms and how to submit solutions.
   * **Materials:**
+  ![Click Here!](MODULE_00/01.md)
 
 #### TOPIC 02: Programming Languages
   * **Learning Objectives:**
       * Compare the pros and cons of C++, Java, and Python for competitive programming.
       * Understand why C++ is the most commonly used language due to its performance and rich Standard Template Library (STL).
   * **Materials:**
+  ![Click Here!](MODULE_00/02.md)
 
 #### TOPIC 03: C++ for Competitive Programming
 
