@@ -11,20 +11,28 @@ typedef pair<int, int> pi;
 #define FOR(i, a, b) for (int i = (a); i < (b); ++i)
 #define REP(i, n) FOR(i, 0, n)
 
-void solve()
-{
-}
+
 
 int main()
 {
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
     cout.tie(0);
-    int t = 1;
-    // cin >> t;
-    while (t--)
-    {
-        solve();
+
+    lli n, p;
+    cin >> n >> p;
+
+    vi c(n);
+    REP(i,n){
+        cin >> c[i];
     }
+
+    
+    char c = ' ';
+    int val = 0;
+    REP(i,p){
+
+    }
+
     return 0;
 }
