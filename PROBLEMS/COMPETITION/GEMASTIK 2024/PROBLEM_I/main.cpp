@@ -30,7 +30,8 @@ int main()
     }
     int ma;
     while(d--){
-        cin >> ma;
+        cin >> ma
+if (ma>n) return s;
         cout << prs[ma] << "\n";
     }
 
