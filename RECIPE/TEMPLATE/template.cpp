@@ -4,6 +4,7 @@ using namespace std;
 typedef long long int lli;
 typedef vector<int> vi;
 typedef pair<int, int> pi;
+typedef unordered_map<int, int> um;
 
 #define F first
 #define S second
