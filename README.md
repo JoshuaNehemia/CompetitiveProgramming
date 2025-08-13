@@ -12,14 +12,14 @@ This module sets the stage, introducing you to the environment, tools, and minds
       * Learn the problem-solving lifecycle: read, analyze, code, test, and debug.
       * Familiarize yourself with online judge platforms and how to submit solutions.
   * **Materials:**
-  ![Click Here!](MODULE_00/01.md)
+  ![Click Here!](MATERIAL/MODULE_00/01.md)
 
 #### TOPIC 02: Programming Languages
   * **Learning Objectives:**
       * Compare the pros and cons of C++, Java, and Python for competitive programming.
       * Understand why C++ is the most commonly used language due to its performance and rich Standard Template Library (STL).
   * **Materials:**
-  ![Click Here!](MODULE_00/02.md)
+  ![Click Here!](MATERIAL/MODULE_00/02.md)
 
 #### TOPIC 03: C++ for Competitive Programming
 
@@ -29,7 +29,7 @@ This module sets the stage, introducing you to the environment, tools, and minds
       * Learn common C++ headers, especially `<bits/stdc++.h>`.
       * Understand basic syntax, data types, and control structures.
   * **Materials:**
-  ![Click Here!](MODULE_00/03.md)
+  ![Click Here!](MATERIAL/MODULE_00/03.md)
 
 -----
 
@@ -43,7 +43,7 @@ Before diving into complex algorithms, you need a solid foundation in mathematic
       * **Number Theory:** Prime factorization, Sieve of Eratosthenes, GCD & LCM (Euclidean algorithm), Modular Arithmetic, and Fermat's Little Theorem.
       * **Combinatorics:** Permutations, combinations, binomial coefficients ($C(n, k)$), and pigeonhole principle.
   * **Materials:**
-  ![Click Here!](MODULE_01/04.md)
+  ![Click Here!](MATERIAL/MODULE_01/04.md)
 
 #### TOPIC 05: Complexity Analysis
 
@@ -52,7 +52,7 @@ Before diving into complex algorithms, you need a solid foundation in mathematic
       * Analyze the time and space complexity of algorithms.
       * Estimate the runtime of a solution based on input constraints (e.g., $N \\le 10^5$ suggests an $O(N \\log N)$ or $O(N)$ solution).
   * **Materials:**
-  ![Click Here!](MODULE_01/05.md)
+  ![Click Here!](MATERIAL/MODULE_01/05.md)
 
 -----
 
@@ -67,7 +67,7 @@ Learn the fundamental strategies that form the backbone of countless solutions.
       * Solve classic problems like Activity Selection, Fractional Knapsack, and Huffman Coding.
   * **Practice:** Problems involving sorting and making the locally optimal choice.
   * **Material:** 
-  ![Click Here!](MODULE_02/06.md)
+  ![Click Here!](MATERIAL/MODULE_02/06.md)
 
 #### TOPIC 07: Divide and Conquer
 
@@ -76,7 +76,7 @@ Learn the fundamental strategies that form the backbone of countless solutions.
       * Implement **Binary Search** on monotonic functions.
       * Understand classic D\&C algorithms like Merge Sort and Quick Sort (Comparing to other sorting algorithms).
   * **Material:** 
-  ![Click Here!](MODULE_02/07.md)
+  ![Click Here!](MATERIAL/MODULE_02/07.md)
 
 #### TOPIC 08: Dynamic Programming (DP)
 
@@ -85,7 +85,7 @@ Learn the fundamental strategies that form the backbone of countless solutions.
       * Master the two approaches: **Memoization (Top-Down)** and **Tabulation (Bottom-Up)
       * Solve classic DP problems: 0/1 Knapsack, Longest Common Subsequence (LCS), Edit Distance, and Coin Change.
   * **Material:** 
-  ![Click Here!](MODULE_02/08.md)
+  ![Click Here!](MATERIAL/MODULE_02/08.md)
 
 -----
 
